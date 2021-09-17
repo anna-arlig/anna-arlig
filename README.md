@@ -14,10 +14,6 @@
 
 
 
-
-
-![dino](https://user-images.githubusercontent.com/89448403/131727053-8cde92ce-e6bf-4506-b507-5ba0d69de12a.gif)
-
 ![](https://komarev.com/ghpvc/?username=anna-arlig&color=71d1c3&style=plastic&label=Besökare)
 
 
