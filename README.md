@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anna-arlig&label=Profile%20views&color=0e75b6&style=flat" alt="anna-arlig" /> </p>
 
-- 🌱 I’m currently learning **Node.js and express**
+- 🌱 I’m currently learning **MongoDB and Mongoose**
 
 - 💬 Ask me about **anything!**
 
