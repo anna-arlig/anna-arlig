@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A junior developer eager to learn</h3>
+<h3 align="center">A junior developer eager to learn. Currently working at Redmind building React Native apps. Sometimes I get a little time for my personal React/TS projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anna-arlig&label=Profile%20views&color=0e75b6&style=flat" alt="anna-arlig" /> </p>
-
-- 🌱 I’m currently learning **Testing frameworks**
 
 - 📫 How to reach me **anna.arlig@gmail.se**
 
